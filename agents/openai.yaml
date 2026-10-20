@@ -1,0 +1,4 @@
+interface:
+  display_name: "Karl Team Workflow"
+  short_description: "Run structured multi-agent delivery and daily acceptance"
+  default_prompt: "Use $karl-team-workflow to plan, coordinate, unblock, and accept a multi-agent software delivery task."
